@@ -1,0 +1,9 @@
+backupdir: D:\backups\
+historycount: 10
+targets:
+  - C:\Users\user\Documents\Works\
+targetsuffix:
+  - .psd
+  - .clip
+  - .sai
+  - .sai2
